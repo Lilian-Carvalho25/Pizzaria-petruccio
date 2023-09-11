@@ -4,6 +4,7 @@ Um site feito para representar um site para uma pizzaria.
 ## ⚙ Funcionalidades 
 - Página linda, responsivas e bem construída <br>
 
+<img src="https://i.imgur.com/Vci4cTY.png" title="source: imgur.com" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -20,5 +21,5 @@ Um site feito para representar um site para uma pizzaria.
 
 ###
 
-**Link do site:** <i>[clique aqui]() <br>
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/Pizzaria-petruccio/) <br>
 
